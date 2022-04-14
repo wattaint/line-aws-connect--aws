@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "aws-sdk": "^2.299.0",
     "bluebird": "^3.5.1",
     "coffeescript": "^2.3.1",
