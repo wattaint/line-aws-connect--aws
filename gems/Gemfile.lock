@@ -24,7 +24,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     jwt (1.5.6)
     mechanize (2.7.6)
       domain_name (~> 0.5, >= 0.5.1)
